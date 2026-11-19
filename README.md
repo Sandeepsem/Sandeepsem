@@ -32,6 +32,12 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="assets/github-banner.png" width="100%" alt="Sandeep Semwal - Developer Banner"/>
+</p>
+
+<br/>
+
 ## ◈ WHO AM I?
 
 ### Building at the intersection of Data, AI & Technology.
